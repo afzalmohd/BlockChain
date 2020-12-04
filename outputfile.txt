@@ -1,0 +1,16 @@
+Connection request from new Peer ('127.0.0.1', 60068)
+Registration request from Peer ('127.0.0.1', 3023)
+Connection request from new Peer ('127.0.0.1', 60070)
+Registration request from Peer ('127.0.0.1', 3024)
+Connection request from new Peer ('127.0.0.1', 60072)
+Registration request from Peer ('127.0.0.1', 3025)
+Connection request from new Peer ('127.0.0.1', 60086)
+Registration request from Peer ('127.0.0.1', 3023)
+Connection request from new Peer ('127.0.0.1', 60088)
+Registration request from Peer ('127.0.0.1', 3024)
+Connection request from new Peer ('127.0.0.1', 60090)
+Registration request from Peer ('127.0.0.1', 3025)
+Dead Node Request: 
+Dead Node:127.0.0.1#3025:2020-12-03 16:59:24.785900:127.0.0.1#3023 from 59
+Dead Node Request: 
+Dead Node:127.0.0.1#3025:2020-12-03 16:59:26.261862:127.0.0.1#3024 from 59

@@ -1,0 +1,902 @@
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('192.168.0.102', 3780)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:Dead Node:127.0.0.1#3013:2020-11-12 00:16:44.070245:127.0.0.1#3011
+INFO:root:Dead Node:127.0.0.1#3012:2020-11-12 00:16:44.070477:127.0.0.1#3011
+INFO:root:Dead Node:127.0.0.1#3011:2020-11-12 00:16:45.677977:127.0.0.1#3012
+INFO:root:Dead Node:127.0.0.1#3013:2020-11-12 00:16:45.678194:127.0.0.1#3012
+INFO:root:Dead Node:127.0.0.1#3011:2020-11-12 00:16:47.528060:127.0.0.1#3013
+INFO:root:Dead Node:127.0.0.1#3012:2020-11-12 00:16:47.528267:127.0.0.1#3013
+INFO:root:Received Gossip message at 2020-11-12 00:17:30.721088 form address :  is : "2020-11-12 00:15:08.437593:127.0.0.1#3013:12020-11-12 00:15:33.463284:127.0.0.1#3013:2Liveness Request:2020-11-12 00:15:41.471227:127.0.0.1#30132020-11-12 00:15:58.485019:127.0.0.1#3013:3Liveness Request:2020-11-12 00:16:14.504606:127.0.0.1#30132020-11-12 00:16:23.501095:127.0.0.1#3013:4" 
+INFO:root:Received Gossip message at 2020-11-12 00:17:32.569757 form address :  is : "2020-11-12 00:15:06.578176:127.0.0.1#3012:12020-11-12 00:15:31.602983:127.0.0.1#3012:2Liveness Request:2020-11-12 00:15:39.611049:127.0.0.1#30122020-11-12 00:15:56.628357:127.0.0.1#3012:3Liveness Request:2020-11-12 00:16:12.644476:127.0.0.1#30122020-11-12 00:16:21.647237:127.0.0.1#3012:4" 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:Dead Node:127.0.0.1#3013:2020-11-12 00:26:05.962541:127.0.0.1#3011
+INFO:root:Dead Node:127.0.0.1#3011:2020-11-12 00:26:08.191154:127.0.0.1#3013
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:Dead Node:127.0.0.1#3013:2020-11-12 12:44:51.993283:127.0.0.1#3011
+INFO:root:Dead Node:127.0.0.1#3012:2020-11-12 12:44:51.993484:127.0.0.1#3011
+INFO:root:Dead Node:127.0.0.1#3013:2020-11-12 12:44:53.028157:127.0.0.1#3012
+INFO:root:Dead Node:127.0.0.1#3011:2020-11-12 12:44:53.028343:127.0.0.1#3012
+INFO:root:Dead Node:127.0.0.1#3012:2020-11-12 12:44:54.605142:127.0.0.1#3013
+INFO:root:Dead Node:127.0.0.1#3011:2020-11-12 12:44:54.605330:127.0.0.1#3013
+INFO:root:Received Gossip message at 2020-11-12 12:45:17.018879 form address :  is : "2020-11-12 12:43:13.927701:127.0.0.1#3012:12020-11-12 12:43:38.953273:127.0.0.1#3012:2Liveness Request:2020-11-12 12:43:46.961243:127.0.0.1#30122020-11-12 12:44:03.978644:127.0.0.1#3012:3Liveness Request:2020-11-12 12:44:19.994640:127.0.0.1#30122020-11-12 12:44:28.994236:127.0.0.1#3012:4" 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3012)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3011)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3015)
+
+INFO:root:Received Gossip message at 2020-12-01 16:58:57.925041 from address : 58 is : "2020-12-01 16:58:57.924866:127.0.0.1#3013:1" 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message at 2020-12-01 16:58:59.765069 from address : 58 is : "2020-12-01 16:58:59.764949:127.0.0.1#3015:1" 
+INFO:root:Received Gossip message at 2020-12-01 16:59:12.937474 from address : 59 is : "2020-12-01 16:59:12.937262:127.0.0.1#3013:2" 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message at 2020-12-01 18:02:32.979792 from address : 02 is : "2020-12-01 18:02:32.979642:127.0.0.1#3014:1" 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:Received Gossip message at 2020-12-01 18:02:35.636579 from address : 02 is : "2020-12-01 18:02:35.636451:127.0.0.1#3013:1" 
+INFO:root:Received Gossip message at 2020-12-01 18:02:35.636853 from address : 02 is : "2020-12-01 18:02:35.636451:127.0.0.1#3013:1" 
+INFO:root:Received Gossip message at 2020-12-01 18:02:47.995549 from address : 02 is : "2020-12-01 18:02:47.994572:127.0.0.1#3014:2" 
+INFO:root:Received Gossip message at 2020-12-01 18:02:47.995829 from address : 02 is : "2020-12-01 18:02:47.994572:127.0.0.1#3014:2" 
+INFO:root:Received Gossip message at 2020-12-01 18:02:50.650473 from address : 02 is : "2020-12-01 18:02:50.650231:127.0.0.1#3013:2" 
+INFO:root:Received Gossip message at 2020-12-01 18:02:50.650733 from address : 02 is : "2020-12-01 18:02:50.650231:127.0.0.1#3013:2" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:03.003852 from address : 03 is : "2020-12-01 18:03:03.003627:127.0.0.1#3014:3" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:03.004133 from address : 03 is : "2020-12-01 18:03:03.003627:127.0.0.1#3014:3" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:05.662331 from address : 03 is : "2020-12-01 18:03:05.662145:127.0.0.1#3013:3" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:05.662726 from address : 03 is : "2020-12-01 18:03:05.662145:127.0.0.1#3013:3" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:18.018389 from address : 03 is : "2020-12-01 18:03:18.018153:127.0.0.1#3014:4" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:18.018674 from address : 03 is : "2020-12-01 18:03:18.018153:127.0.0.1#3014:4" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:20.675223 from address : 03 is : "2020-12-01 18:03:20.674976:127.0.0.1#3013:4" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:20.675497 from address : 03 is : "2020-12-01 18:03:20.674976:127.0.0.1#3013:4" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:33.034033 from address : 03 is : "2020-12-01 18:03:33.033904:127.0.0.1#3014:5" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:33.034285 from address : 03 is : "2020-12-01 18:03:33.033904:127.0.0.1#3014:5" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:35.689309 from address : 03 is : "2020-12-01 18:03:35.688933:127.0.0.1#3013:5" 
+INFO:root:Received Gossip message at 2020-12-01 18:03:35.689607 from address : 03 is : "2020-12-01 18:03:35.688933:127.0.0.1#3013:5" 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:Received Gossip message:  2020-12-01 18:24:16.395845;127.0.0.1#3013;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-01 18:24:18.858643;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-01 18:24:18.858643;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-01 18:24:31.403887;127.0.0.1#3013;2 
+INFO:root:Received Gossip message:  2020-12-01 18:24:31.403887;127.0.0.1#3013;2 
+INFO:root:Received Gossip message:  2020-12-01 18:24:33.874148;127.0.0.1#3014;2 
+INFO:root:Received Gossip message:  2020-12-01 18:24:33.874148;127.0.0.1#3014;2 
+INFO:root:Received Gossip message:  2020-12-01 18:24:46.418946;127.0.0.1#3013;3 
+INFO:root:Received Gossip message:  2020-12-01 18:24:46.418946;127.0.0.1#3013;3 
+INFO:root:Received Gossip message:  2020-12-01 18:24:48.884493;127.0.0.1#3014;3 
+INFO:root:Received Gossip message:  2020-12-01 18:24:48.884493;127.0.0.1#3014;3 
+INFO:root:Received Gossip message:  2020-12-01 18:25:01.438147;127.0.0.1#3013;4 
+INFO:root:Received Gossip message:  2020-12-01 18:25:01.438147;127.0.0.1#3013;4 
+INFO:root:Received Gossip message:  2020-12-01 18:25:03.902154;127.0.0.1#3014;4 
+INFO:root:Received Gossip message:  2020-12-01 18:25:03.902154;127.0.0.1#3014;4 
+INFO:root:Received Gossip message:  2020-12-01 18:25:16.454848;127.0.0.1#3013;5 
+INFO:root:Received Gossip message:  2020-12-01 18:25:16.454848;127.0.0.1#3013;5 
+INFO:root:Received Gossip message:  2020-12-01 18:25:18.914148;127.0.0.1#3014;5 
+INFO:root:Received Gossip message:  2020-12-01 18:25:18.914148;127.0.0.1#3014;5 
+INFO:root:Received Gossip message:  2020-12-01 18:25:31.470149;127.0.0.1#3013;6 
+INFO:root:Received Gossip message:  2020-12-01 18:25:31.470149;127.0.0.1#3013;6 
+INFO:root:Received Gossip message:  2020-12-01 18:25:33.926255;127.0.0.1#3014;6 
+INFO:root:Received Gossip message:  2020-12-01 18:25:33.926255;127.0.0.1#3014;6 
+INFO:root:Received Gossip message:  2020-12-01 18:25:46.500022;127.0.0.1#3013;7 
+INFO:root:Received Gossip message:  2020-12-01 18:25:46.500022;127.0.0.1#3013;7 
+INFO:root:Received Gossip message:  2020-12-01 18:25:48.936398;127.0.0.1#3014;7 
+INFO:root:Received Gossip message:  2020-12-01 18:25:48.936398;127.0.0.1#3014;7 
+INFO:root:Received Gossip message:  2020-12-01 18:26:01.519932;127.0.0.1#3013;8 
+INFO:root:Received Gossip message:  2020-12-01 18:26:01.519932;127.0.0.1#3013;8 
+INFO:root:Received Gossip message:  2020-12-01 18:26:03.948874;127.0.0.1#3014;8 
+INFO:root:Received Gossip message:  2020-12-01 18:26:03.948874;127.0.0.1#3014;8 
+INFO:root:Received Gossip message:  2020-12-01 18:26:16.532908;127.0.0.1#3013;9 
+INFO:root:Received Gossip message:  2020-12-01 18:26:16.532908;127.0.0.1#3013;9 
+INFO:root:Received Gossip message:  2020-12-01 18:26:18.960997;127.0.0.1#3014;9 
+INFO:root:Received Gossip message:  2020-12-01 18:26:18.960997;127.0.0.1#3014;9 
+INFO:root:Received Gossip message:  2020-12-01 18:26:31.542248;127.0.0.1#3013;10 
+INFO:root:Received Gossip message:  2020-12-01 18:26:31.542248;127.0.0.1#3013;10 
+INFO:root:Received Gossip message:  2020-12-01 18:26:33.975115;127.0.0.1#3014;10 
+INFO:root:Received Gossip message:  2020-12-01 18:26:33.975115;127.0.0.1#3014;10 
+INFO:root:Received Gossip message:  2020-12-01 18:26:46.557671;127.0.0.1#3013;11 
+INFO:root:Received Gossip message:  2020-12-01 18:26:46.557671;127.0.0.1#3013;11 
+INFO:root:Received Gossip message:  2020-12-01 18:26:48.993172;127.0.0.1#3014;11 
+INFO:root:Received Gossip message:  2020-12-01 18:26:48.993172;127.0.0.1#3014;11 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:Received Gossip message:  2020-12-01 18:33:46.225358;127.0.0.1#3013;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-01 18:33:47.956897;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-01 18:33:47.956897;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-01 18:34:01.235495;127.0.0.1#3013;2 
+INFO:root:Received Gossip message:  2020-12-01 18:34:01.235495;127.0.0.1#3013;2 
+INFO:root:Received Gossip message:  2020-12-01 18:34:02.971378;127.0.0.1#3014;2 
+INFO:root:Received Gossip message:  2020-12-01 18:34:02.971378;127.0.0.1#3014;2 
+INFO:root:Received Gossip message:  2020-12-01 18:34:16.254868;127.0.0.1#3013;3 
+INFO:root:Received Gossip message:  2020-12-01 18:34:16.254868;127.0.0.1#3013;3 
+INFO:root:Received Gossip message:  2020-12-01 18:34:17.986160;127.0.0.1#3014;3 
+INFO:root:Received Gossip message:  2020-12-01 18:34:17.986160;127.0.0.1#3014;3 
+INFO:root:Received Gossip message:  2020-12-01 18:34:31.266158;127.0.0.1#3013;4 
+INFO:root:Received Gossip message:  2020-12-01 18:34:31.266158;127.0.0.1#3013;4 
+INFO:root:Received Gossip message:  2020-12-01 18:34:33.006634;127.0.0.1#3014;4 
+INFO:root:Received Gossip message:  2020-12-01 18:34:33.006634;127.0.0.1#3014;4 
+INFO:root:Received Gossip message:  2020-12-01 18:34:46.278704;127.0.0.1#3013;5 
+INFO:root:Received Gossip message:  2020-12-01 18:34:46.278704;127.0.0.1#3013;5 
+INFO:root:Received Gossip message:  2020-12-01 18:34:48.018158;127.0.0.1#3014;5 
+INFO:root:Received Gossip message:  2020-12-01 18:34:48.018158;127.0.0.1#3014;5 
+INFO:root:Received Gossip message:  2020-12-01 18:35:01.294168;127.0.0.1#3013;6 
+INFO:root:Received Gossip message:  2020-12-01 18:35:01.294168;127.0.0.1#3013;6 
+INFO:root:Received Gossip message:  2020-12-01 18:35:03.030187;127.0.0.1#3014;6 
+INFO:root:Received Gossip message:  2020-12-01 18:35:03.030187;127.0.0.1#3014;6 
+INFO:root:Received Gossip message:  2020-12-01 18:35:16.308631;127.0.0.1#3013;7 
+INFO:root:Received Gossip message:  2020-12-01 18:35:16.308631;127.0.0.1#3013;7 
+INFO:root:Received Gossip message:  2020-12-01 18:35:18.046226;127.0.0.1#3014;7 
+INFO:root:Received Gossip message:  2020-12-01 18:35:18.046226;127.0.0.1#3014;7 
+INFO:root:Received Gossip message:  2020-12-01 18:35:31.322150;127.0.0.1#3013;8 
+INFO:root:Received Gossip message:  2020-12-01 18:35:31.322150;127.0.0.1#3013;8 
+INFO:root:Received Gossip message:  2020-12-01 18:35:33.062152;127.0.0.1#3014;8 
+INFO:root:Received Gossip message:  2020-12-01 18:35:33.062152;127.0.0.1#3014;8 
+INFO:root:Received Gossip message:  2020-12-01 18:35:46.338166;127.0.0.1#3013;9 
+INFO:root:Received Gossip message:  2020-12-01 18:35:46.338166;127.0.0.1#3013;9 
+INFO:root:Received Gossip message:  2020-12-01 18:35:48.074162;127.0.0.1#3014;9 
+INFO:root:Received Gossip message:  2020-12-01 18:35:48.074162;127.0.0.1#3014;9 
+INFO:root:Received Gossip message:  2020-12-01 18:36:01.349274;127.0.0.1#3013;10 
+INFO:root:Received Gossip message:  2020-12-01 18:36:01.349274;127.0.0.1#3013;10 
+INFO:root:Received Gossip message:  2020-12-01 18:36:03.091147;127.0.0.1#3014;10 
+INFO:root:Received Gossip message:  2020-12-01 18:36:03.091147;127.0.0.1#3014;10 
+INFO:root:Received Gossip message:  2020-12-01 18:36:16.362158;127.0.0.1#3013;11 
+INFO:root:Received Gossip message:  2020-12-01 18:36:16.362158;127.0.0.1#3013;11 
+INFO:root:Received Gossip message:  2020-12-01 18:36:18.107151;127.0.0.1#3014;11 
+INFO:root:Received Gossip message:  2020-12-01 18:36:18.107151;127.0.0.1#3014;11 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:Received Gossip message:  2020-12-01 20:23:58.893521;127.0.0.1#3013;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-01 20:24:01.418988;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-01 20:24:01.418988;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-01 20:24:13.907673;127.0.0.1#3013;2 
+INFO:root:Received Gossip message:  2020-12-01 20:24:13.907673;127.0.0.1#3013;2 
+INFO:root:Received Gossip message:  2020-12-01 20:24:16.429672;127.0.0.1#3014;2 
+INFO:root:Received Gossip message:  2020-12-01 20:24:16.429672;127.0.0.1#3014;2 
+INFO:root:Received Gossip message:  2020-12-01 20:24:28.922422;127.0.0.1#3013;3 
+INFO:root:Received Gossip message:  2020-12-01 20:24:28.922422;127.0.0.1#3013;3 
+INFO:root:Received Gossip message:  2020-12-01 20:24:31.438111;127.0.0.1#3014;3 
+INFO:root:Received Gossip message:  2020-12-01 20:24:31.438111;127.0.0.1#3014;3 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 19:06:45.765056;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 19:06:45.765056;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 19:06:47.743451;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 19:06:47.743451;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 19:22:16.418656;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 19:22:16.418656;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 19:22:18.303438;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 19:22:18.303438;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 20:04:35.888798;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:04:35.888798;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:04:37.565284;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 20:04:37.565284;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 20:08:23.905083;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:08:23.905083;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:08:25.357424;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 20:08:25.357424;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 20:12:13.238227;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:12:13.238227;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:12:15.053895;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 20:12:15.053895;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 20:16:29.049579;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:16:29.049579;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:16:30.853933;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 20:16:30.853933;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 20:21:55.099516;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:21:55.099516;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:21:56.573928;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 20:21:56.573928;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 20:34:28.259606;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:34:28.259606;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:34:30.170119;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 20:34:30.170119;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 20:39:04.446014;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:39:04.446014;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:39:05.938106;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 20:39:05.938106;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 20:48:48.403167;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:48:48.403167;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:48:49.851422;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 20:48:49.851422;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 20:52:34.879646;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:52:34.879646;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 20:52:36.463505;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 20:52:36.463505;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-02 21:09:50.153328;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 21:09:50.153328;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-02 21:09:51.878169;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-02 21:09:51.878169;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-03 07:23:42.243467;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-03 07:23:42.243467;127.0.0.1#3013;1 
+INFO:root:Received Gossip message:  2020-12-03 07:23:44.069892;127.0.0.1#3014;1 
+INFO:root:Received Gossip message:  2020-12-03 07:23:44.069892;127.0.0.1#3014;1 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-03 07:33:01.632203;127.0.0.1#3013;1 from: 127.0.0.1#3013 
+INFO:root:Received Gossip message:  2020-12-03 07:33:01.632203;127.0.0.1#3013;1 from: 127.0.0.1#3013 
+INFO:root:Received Gossip message:  2020-12-03 07:33:04.001964;127.0.0.1#3014;1 from: 127.0.0.1#3014 
+INFO:root:Received Gossip message:  2020-12-03 07:33:04.001964;127.0.0.1#3014;1 from: 127.0.0.1#3014 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-03 07:37:38.101189;127.0.0.1#3013;1 from: 127.0.0.1#3013 
+INFO:root:Received Gossip message:  2020-12-03 07:37:38.101189;127.0.0.1#3013;1 from: 127.0.0.1#3013 
+INFO:root:Received Gossip message:  2020-12-03 07:37:39.910380;127.0.0.1#3014;1 from: 127.0.0.1#3014 
+INFO:root:Received Gossip message:  2020-12-03 07:37:39.910380;127.0.0.1#3014;1 from: 127.0.0.1#3014 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-03 07:59:48.683421;127.0.0.1#3013;1 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 07:59:50.334466;127.0.0.1#3014;1 from: ('127.0.0.1', 3014) 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-03 09:37:46.332563;127.0.0.1#3013;1 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:37:47.931665;127.0.0.1#3014;1 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 09:37:51.337936;127.0.0.1#3013;2 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:37:52.937000;127.0.0.1#3014;2 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 09:37:56.343250;127.0.0.1#3013;3 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:37:57.942251;127.0.0.1#3014;3 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:01.348570;127.0.0.1#3013;4 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:02.947505;127.0.0.1#3014;4 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:06.353888;127.0.0.1#3013;5 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:07.952752;127.0.0.1#3014;5 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:11.359181;127.0.0.1#3013;6 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:12.954261;127.0.0.1#3014;6 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:16.364488;127.0.0.1#3013;7 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:17.959502;127.0.0.1#3014;7 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:21.366592;127.0.0.1#3013;8 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:22.964764;127.0.0.1#3014;8 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:26.371879;127.0.0.1#3013;9 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:27.970013;127.0.0.1#3014;9 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:31.377155;127.0.0.1#3013;10 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 09:38:32.975246;127.0.0.1#3014;10 from: ('127.0.0.1', 3014) 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3015)
+
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:('127.0.0.1', 3015)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:Received Gossip message:  2020-12-03 10:05:22.526734;127.0.0.1#3013;1 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:22.526734;127.0.0.1#3013;1 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:25.738515;127.0.0.1#3014;1 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:25.738515;127.0.0.1#3014;1 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:27.409705;127.0.0.1#3015;1 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:27.409705;127.0.0.1#3015;1 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:27.532078;127.0.0.1#3013;2 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:27.532078;127.0.0.1#3013;2 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:30.744547;127.0.0.1#3014;2 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:30.744547;127.0.0.1#3014;2 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:32.414561;127.0.0.1#3015;2 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:32.414561;127.0.0.1#3015;2 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:32.534765;127.0.0.1#3013;3 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:32.534765;127.0.0.1#3013;3 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:35.758628;127.0.0.1#3014;3 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:35.758628;127.0.0.1#3014;3 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:37.418540;127.0.0.1#3015;3 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:37.418540;127.0.0.1#3015;3 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:37.538636;127.0.0.1#3013;4 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:37.538636;127.0.0.1#3013;4 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:40.762556;127.0.0.1#3014;4 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:40.762556;127.0.0.1#3014;4 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:42.422573;127.0.0.1#3015;4 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:42.422573;127.0.0.1#3015;4 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:42.542562;127.0.0.1#3013;5 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:42.542562;127.0.0.1#3013;5 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:45.766589;127.0.0.1#3014;5 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:45.766589;127.0.0.1#3014;5 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:47.426563;127.0.0.1#3015;5 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:47.426563;127.0.0.1#3015;5 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:47.546601;127.0.0.1#3013;6 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:47.546601;127.0.0.1#3013;6 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:50.770602;127.0.0.1#3014;6 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:50.770602;127.0.0.1#3014;6 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:52.430594;127.0.0.1#3015;6 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:52.430594;127.0.0.1#3015;6 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:52.550592;127.0.0.1#3013;7 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:05:52.550592;127.0.0.1#3013;7 from: ('127.0.0.1', 3013) 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3015)
+
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3015)
+
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3014)
+
+INFO:root:('127.0.0.1', 3013)
+
+INFO:root:Received Gossip message:  2020-12-03 10:08:53.909550;127.0.0.1#3013;1 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:08:53.909550;127.0.0.1#3013;1 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:08:55.582743;127.0.0.1#3014;1 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:08:55.582743;127.0.0.1#3014;1 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:08:57.522825;127.0.0.1#3015;1 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:08:57.522825;127.0.0.1#3015;1 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:08:58.914916;127.0.0.1#3013;2 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:08:58.914916;127.0.0.1#3013;2 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:00.588959;127.0.0.1#3014;2 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:00.588959;127.0.0.1#3014;2 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:02.526705;127.0.0.1#3015;2 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:02.526705;127.0.0.1#3015;2 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:03.918696;127.0.0.1#3013;3 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:03.918696;127.0.0.1#3013;3 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:05.590751;127.0.0.1#3014;3 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:05.590751;127.0.0.1#3014;3 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:07.530551;127.0.0.1#3015;3 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:07.530551;127.0.0.1#3015;3 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:08.922760;127.0.0.1#3013;4 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:08.922760;127.0.0.1#3013;4 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:10.594560;127.0.0.1#3014;4 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:10.594560;127.0.0.1#3014;4 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:12.534658;127.0.0.1#3015;4 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:12.534658;127.0.0.1#3015;4 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:13.926697;127.0.0.1#3013;5 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:13.926697;127.0.0.1#3013;5 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:15.598584;127.0.0.1#3014;5 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:15.598584;127.0.0.1#3014;5 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:17.539743;127.0.0.1#3015;5 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:17.539743;127.0.0.1#3015;5 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:18.930593;127.0.0.1#3013;6 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:18.930593;127.0.0.1#3013;6 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:20.602557;127.0.0.1#3014;6 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:20.602557;127.0.0.1#3014;6 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:22.544829;127.0.0.1#3015;6 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:22.544829;127.0.0.1#3015;6 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:23.934567;127.0.0.1#3013;7 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:23.934567;127.0.0.1#3013;7 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:25.606586;127.0.0.1#3014;7 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:25.606586;127.0.0.1#3014;7 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:27.549933;127.0.0.1#3015;7 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:27.549933;127.0.0.1#3015;7 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:28.938602;127.0.0.1#3013;8 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:28.938602;127.0.0.1#3013;8 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:30.610593;127.0.0.1#3014;8 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:30.610593;127.0.0.1#3014;8 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:32.554670;127.0.0.1#3015;8 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:32.554670;127.0.0.1#3015;8 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:33.942589;127.0.0.1#3013;9 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:33.942589;127.0.0.1#3013;9 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:35.614584;127.0.0.1#3014;9 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:35.614584;127.0.0.1#3014;9 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:37.558645;127.0.0.1#3015;9 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:37.558645;127.0.0.1#3015;9 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:38.946602;127.0.0.1#3013;10 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:38.946602;127.0.0.1#3013;10 from: ('127.0.0.1', 3013) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:40.618585;127.0.0.1#3014;10 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:40.618585;127.0.0.1#3014;10 from: ('127.0.0.1', 3014) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:42.563563;127.0.0.1#3015;10 from: ('127.0.0.1', 3015) 
+INFO:root:Received Gossip message:  2020-12-03 10:09:42.563563;127.0.0.1#3015;10 from: ('127.0.0.1', 3015) 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3025)
+
+INFO:root:('127.0.0.1', 3024)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3023)
+
+INFO:root:('127.0.0.1', 3025)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3024)
+
+INFO:root:('127.0.0.1', 3023)
+
+INFO:root:Received Gossip message:  2020-12-03 16:52:26.729989;127.0.0.1#3023;1 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:26.729989;127.0.0.1#3023;1 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:28.273795;127.0.0.1#3024;1 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:28.273795;127.0.0.1#3024;1 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:29.826075;127.0.0.1#3025;1 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:29.826075;127.0.0.1#3025;1 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:31.735374;127.0.0.1#3023;2 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:31.735374;127.0.0.1#3023;2 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:33.285658;127.0.0.1#3024;2 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:33.285658;127.0.0.1#3024;2 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:34.829822;127.0.0.1#3025;2 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:34.829822;127.0.0.1#3025;2 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:36.737960;127.0.0.1#3023;3 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:36.737960;127.0.0.1#3023;3 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:38.289840;127.0.0.1#3024;3 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:38.289840;127.0.0.1#3024;3 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:39.833828;127.0.0.1#3025;3 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:39.833828;127.0.0.1#3025;3 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:41.741811;127.0.0.1#3023;4 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:41.741811;127.0.0.1#3023;4 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:43.293960;127.0.0.1#3024;4 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:43.293960;127.0.0.1#3024;4 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:44.837821;127.0.0.1#3025;4 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:44.837821;127.0.0.1#3025;4 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:46.745791;127.0.0.1#3023;5 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:46.745791;127.0.0.1#3023;5 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:48.297816;127.0.0.1#3024;5 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:48.297816;127.0.0.1#3024;5 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:49.841822;127.0.0.1#3025;5 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:49.841822;127.0.0.1#3025;5 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:51.749819;127.0.0.1#3023;6 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:51.749819;127.0.0.1#3023;6 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:53.301792;127.0.0.1#3024;6 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:53.301792;127.0.0.1#3024;6 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:54.845935;127.0.0.1#3025;6 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:54.845935;127.0.0.1#3025;6 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:56.754973;127.0.0.1#3023;7 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:56.754973;127.0.0.1#3023;7 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:58.305969;127.0.0.1#3024;7 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:58.305969;127.0.0.1#3024;7 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:59.849976;127.0.0.1#3025;7 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:52:59.849976;127.0.0.1#3025;7 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:01.757807;127.0.0.1#3023;8 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:01.757807;127.0.0.1#3023;8 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:03.309827;127.0.0.1#3024;8 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:03.309827;127.0.0.1#3024;8 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:04.853805;127.0.0.1#3025;8 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:04.853805;127.0.0.1#3025;8 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:06.761808;127.0.0.1#3023;9 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:06.761808;127.0.0.1#3023;9 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:08.313834;127.0.0.1#3024;9 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:08.313834;127.0.0.1#3024;9 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:09.857813;127.0.0.1#3025;9 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:09.857813;127.0.0.1#3025;9 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:11.765825;127.0.0.1#3023;10 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:11.765825;127.0.0.1#3023;10 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:13.317839;127.0.0.1#3024;10 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:13.317839;127.0.0.1#3024;10 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:14.861822;127.0.0.1#3025;10 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:53:14.861822;127.0.0.1#3025;10 from: ('127.0.0.1', 3025) 
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3025)
+
+INFO:root:('127.0.0.1', 3024)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3023)
+
+INFO:root:('127.0.0.1', 3025)
+
+INFO:root:The list of peers received from seeds.. : 
+ 
+INFO:root:('127.0.0.1', 3023)
+
+INFO:root:('127.0.0.1', 3024)
+
+INFO:root:Received Gossip message:  2020-12-03 16:57:55.706577;127.0.0.1#3023;1 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:57:55.706577;127.0.0.1#3023;1 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:57:57.180677;127.0.0.1#3024;1 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:57:57.180677;127.0.0.1#3024;1 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:57:58.819125;127.0.0.1#3025;1 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:57:58.819125;127.0.0.1#3025;1 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:00.713653;127.0.0.1#3023;2 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:00.713653;127.0.0.1#3023;2 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:02.189953;127.0.0.1#3024;2 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:02.189953;127.0.0.1#3024;2 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:03.821842;127.0.0.1#3025;2 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:03.821842;127.0.0.1#3025;2 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:05.717823;127.0.0.1#3023;3 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:05.717823;127.0.0.1#3023;3 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:07.193787;127.0.0.1#3024;3 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:07.193787;127.0.0.1#3024;3 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:08.825968;127.0.0.1#3025;3 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:08.825968;127.0.0.1#3025;3 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:10.721826;127.0.0.1#3023;4 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:10.721826;127.0.0.1#3023;4 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:12.197806;127.0.0.1#3024;4 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:12.197806;127.0.0.1#3024;4 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:13.829836;127.0.0.1#3025;4 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:13.829836;127.0.0.1#3025;4 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:15.725824;127.0.0.1#3023;5 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:15.725824;127.0.0.1#3023;5 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:17.201795;127.0.0.1#3024;5 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:17.201795;127.0.0.1#3024;5 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:18.833798;127.0.0.1#3025;5 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:18.833798;127.0.0.1#3025;5 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:20.729806;127.0.0.1#3023;6 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:20.729806;127.0.0.1#3023;6 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:22.205781;127.0.0.1#3024;6 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:22.205781;127.0.0.1#3024;6 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:23.837792;127.0.0.1#3025;6 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:23.837792;127.0.0.1#3025;6 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:25.733820;127.0.0.1#3023;7 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:25.733820;127.0.0.1#3023;7 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:27.209806;127.0.0.1#3024;7 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:27.209806;127.0.0.1#3024;7 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:28.841818;127.0.0.1#3025;7 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:28.841818;127.0.0.1#3025;7 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:30.737819;127.0.0.1#3023;8 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:30.737819;127.0.0.1#3023;8 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:32.213809;127.0.0.1#3024;8 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:32.213809;127.0.0.1#3024;8 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:33.845821;127.0.0.1#3025;8 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:33.845821;127.0.0.1#3025;8 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:35.741833;127.0.0.1#3023;9 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:35.741833;127.0.0.1#3023;9 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:37.217808;127.0.0.1#3024;9 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:37.217808;127.0.0.1#3024;9 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:38.849834;127.0.0.1#3025;9 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:38.849834;127.0.0.1#3025;9 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:40.745831;127.0.0.1#3023;10 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:40.745831;127.0.0.1#3023;10 from: ('127.0.0.1', 3023) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:42.221813;127.0.0.1#3024;10 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:42.221813;127.0.0.1#3024;10 from: ('127.0.0.1', 3024) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:43.853831;127.0.0.1#3025;10 from: ('127.0.0.1', 3025) 
+INFO:root:Received Gossip message:  2020-12-03 16:58:43.853831;127.0.0.1#3025;10 from: ('127.0.0.1', 3025) 
+INFO:root:Dead Node:127.0.0.1#3025:2020-12-03 16:59:24.785900:127.0.0.1#3023
+INFO:root:Dead Node:127.0.0.1#3025:2020-12-03 16:59:26.261862:127.0.0.1#3024
