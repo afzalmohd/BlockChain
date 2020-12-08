@@ -803,7 +803,7 @@ class Peer:
 if __name__ == "__main__":
     ip = '127.0.0.1' # Input seed_ip here
     port = 3013
-    is_advsarial = True
+    is_advsarial = False
     flood_percent = 20
     peer_timeout = 600
     intarrivaltime = 2
